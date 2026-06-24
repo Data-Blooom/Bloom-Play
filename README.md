@@ -274,11 +274,11 @@ BloomPlay is designed to stay lightweight while running continuously.
 
 | Desktop Dashboard | Hardware Information Center |
 |------------------|----------------------------|
-| ![](screenshots/desktop-dashboard.png) | ![](screenshots/hardware-information-center.png) |
+| ![](Screenshots/Desktop-Dashboard.png) | ![](Screenshots/Hardware-Information-Center.png) |
 
 | Mobile Dashboard | Mobile Hardware Information Center |
 |-----------------|------------------------------------|
-| ![](screenshots/mobile-dashboard.png) | ![](screenshots/mobile-hardware-information-center.png) |
+| ![](Screenshots/Mobile-Dashboard.png) | ![](Screenshots/Mobile-Hardware-Information-Center.png) |
 
 ---
 
