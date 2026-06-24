@@ -259,14 +259,23 @@ BloomPlay is designed to stay lightweight while running continuously.
 
 # 🛠 Tech Stack
 
-| Category           | Technologies          |
-| ------------------ | --------------------- |
-| Backend            | Python, FastAPI       |
-| Desktop UI         | PyQt5                 |
-| Frontend           | HTML, CSS, JavaScript |
-| Hardware Detection | psutil, WMI, GPUtil   |
-| Networking         | QR Code, Local API    |
-| Monitoring         | Real-Time Statistics  |
+| Category | Technologies |
+|-----------|-------------|
+| Backend | Python, FastAPI |
+| Desktop UI | PyQt5 |
+| Frontend | HTML, CSS, JavaScript |
+| Hardware Detection | psutil, WMI, GPUtil |
+| Networking | QR Code, Local API |
+| Monitoring | Real-Time Statistics |
+
+---
+
+# 🤖 AI-Assisted Development
+
+BloomPlay was developed with the assistance of modern AI tools:
+
+- ChatGPT
+- DeepSeek
 
 ---
 
